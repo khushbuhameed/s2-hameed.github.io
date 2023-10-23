@@ -53,13 +53,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/SuperHero-Hunter-App)
->
-> ## Checkout the Application Demo Video [YouTube](https://www.youtube.com/watch?v=Y75R54qPHzI)
-
-<br/>
 
 ## 💻 Screens
 
@@ -76,12 +70,12 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> 
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
+> [LinkedIn](https://www.linkedin.com/in/khushbu-hameed-6a0551260/)
+
+> 
 
 I hope you like the project. Thanks for reading :)
